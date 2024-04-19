@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:PlaySorbonne/jeu_piste-frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:PlaySorbonne/jeu_piste-backend.git
