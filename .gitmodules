@@ -4,3 +4,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = git@github.com:PlaySorbonne/jeu_piste-backend.git
+[submodule "Client"]
+	path = Client
+	url = git@github.com:PlaySorbonne/jeu_piste-Client.git
